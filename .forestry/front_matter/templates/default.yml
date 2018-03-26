@@ -1,4 +1,6 @@
 ---
+pages:
+- post/rep-tusovka.md
 hide_body: false
 fields:
 - name: date
