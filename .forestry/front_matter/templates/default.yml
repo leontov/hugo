@@ -61,3 +61,5 @@ fields:
       type: pages
 - type: image_gallery
   hidden: false
+  default:
+  - "/uploads/2018/03/26/tvspb (1).png"
