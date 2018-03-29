@@ -1,15 +1,14 @@
 +++
 author = "englianhu"
 comments = false
-date = "2016-01-01"
-draft = false
+date = "2016-01-01T00:00:00Z"
+draft = true
 image = ""
-menu = ""
 share = false
 slug = "test"
-title= "test post"
-+++
+title = "test post"
 
++++
 ```bash
 echo "hello world !!"
 ```
